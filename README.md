@@ -30,7 +30,6 @@ A terminal-based countdown timer that ticks every second and ends with a bang.
 ---
 
 ## 4. Screenshot
-<!-- upload your screenshot and replace the link below -->
 <img width="1390" height="156" alt="Image" src="https://github.com/user-attachments/assets/af8aab6d-b0aa-49a5-b44f-ab6ab62bd2af" />
 <img width="1452" height="152" alt="Image" src="https://github.com/user-attachments/assets/51e50664-33f7-44be-a2cb-aa7cd00e6ce3" />
 
