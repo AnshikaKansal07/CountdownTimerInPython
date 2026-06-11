@@ -6,4 +6,4 @@ while t:
     print(timer, end='\r')  
     T.sleep(1)
     t -= 1
-print("Boom!!")
+print("Time Over!!")
